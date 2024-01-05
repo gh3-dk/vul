@@ -14,7 +14,7 @@
 ```
 <script>alert(123);</script>
 ```
-![dd43272e1ff2661eac1c0ca2fef898b5.png](../_resources/dd43272e1ff2661eac1c0ca2fef898b5.png)
+![dd43272e1ff2661eac1c0ca2fef898b5.png](https://github.com/gh3-dk/vul/blob/main/images/emlog2.png)
 3,管理员在审核时，没注意到恶意代码，不小心审核通过，别的用户或者管理员每次在主页浏览这篇博客时就会触发XSS攻击
-![986be6d884d29c3bb6568ed37e2004cf.png](../_resources/986be6d884d29c3bb6568ed37e2004cf.png)
-![03cd7b4163dd1ff13d13f33761b2412e.png](../_resources/03cd7b4163dd1ff13d13f33761b2412e.png)
+![986be6d884d29c3bb6568ed37e2004cf.png](https://github.com/gh3-dk/vul/blob/main/images/emlog3.png)
+![03cd7b4163dd1ff13d13f33761b2412e.png](https://github.com/gh3-dk/vul/blob/main/images/emlog4.png)
