@@ -1,6 +1,6 @@
 # emlog<=pro-2.2.7 存储型跨站脚本攻击(XSS)
 ## Description
-    The system Client doesn't properly sanitise POST parameter, which result into a Stored Cross-Site Scripting(XSS).
+    在博客的内容中，后台未正确过滤XSS攻击的语句，导致可触发xss攻击。
 ## Vendor Homepage
     https://www.emlog.net/
     https://github.com/emlog/emlog
