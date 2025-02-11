@@ -49,9 +49,11 @@ The parameter 'id' received from the user input is not strictly validated in the
 
 
 ![dingfangzu1.png](https://github.com/gh3-dk/vul/blob/main/images/dingfangzu1.png)
+
+order.inc.php file.
 ![dingfangzu2.png](https://github.com/gh3-dk/vul/blob/main/images/dingfangzu2.png)
 
 
 Practical verification
 
-![dingfangzu3.png](https://github.com/gh3-dk/vul/blob/main/images/dingfangzu3.png)
+![dingfangzu3.png.png](https://github.com/gh3-dk/vul/blob/main/images/dingfangzu3.png.png)
