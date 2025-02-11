@@ -48,10 +48,10 @@ type=cancel&id=1+union+select+sleep(3)--+
 The parameter 'id' received from the user input is not strictly validated in the operatiteOrder.chp file, and the file can be accessed without authorization for SQL injection attacks.
 
 
-![image-20250106015104794](https://github.com/user-attachments/assets/2780414f-c453-4396-b332-3b054080ccb6)
-
+![dingfangzu1.png](https://github.com/gh3-dk/vul/blob/main/images/dingfangzu1.png)
+![dingfangzu2.png](https://github.com/gh3-dk/vul/blob/main/images/dingfangzu2.png)
 
 
 Practical verification
 
-![image-20250106021003686](https://github.com/user-attachments/assets/656d9fab-e036-4d83-9bf0-06a19b94a48c)
+![dingfangzu3.png](https://github.com/gh3-dk/vul/blob/main/images/dingfangzu3.png)
