@@ -1,9 +1,9 @@
 
-# dingfanzu-CMS operateOrder.php shopId SQL-inject
+# dingfanzu-CMS operateOrder.php id SQL-inject.md
 
-**Exploit Title: dingfanzu-CMS checkOrder.php shopId SQL inject**
+**Exploit Title: dingfanzu-CMS operateOrder.php id SQL-inject.md**
 
-**Exploit Author: https://github.com/xiaosguang/cve/blob/main/dingfanzu**
+**Exploit Author: https://github.com/gh3-dk/vul/blob/main/sql%20injection/dingfanzu**
 
 **Vendor Homepage: https://github.com/geeeeeeeek/dingfanzu**
 
